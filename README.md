@@ -60,3 +60,9 @@ Add this:
 ### License:
 
 The Snakberry-Webpanel is dual-licensed under the MIT (http://www.opensource.org/licenses/mit-license.php) and the Beerware (http://en.wikipedia.org/wiki/Beerware) license.
+
+### We thank the following projects and authors for their (indirect) help
+
+designmodo - https://github.com/designmodo/Flat-UI/ - Design
+
+salendron - https://github.com/salendron/Snakeberry/ - Snakeberry
