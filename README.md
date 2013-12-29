@@ -19,17 +19,23 @@ A small web-based control panel for the snakeberry project (https://github.com/s
 *If you haven't do this already:
 Install Snakeberry (How to do: https://github.com/salendron/Snakeberry/wiki/Installation) and Apache2 (sudo apt-get install apache2 php5)*
 
-2.Enter the directory of the Webserver
+2.Enter the directory of the Webserver and create subdirectory
 
 > sudo cd /var/www
+
+> sudo mkdir webpanel
+
+> sudo cd webpanel
 
 3.Download the webpanel
 
 > sudo wget https://github.com/chabbster/snakeberry-web/archive/master.zip
 
-4.Unzip the webpanel
+4.Unzip the webpanel and copy the files out of the subfolder
 
 > sudo unzip master.zip
+
+> copy -R snakeberry-web-master/* /var/www/webpanel
 
 5.Set the ownership of the directory to www-data
 
@@ -66,3 +72,12 @@ The Snakberry-Webpanel is dual-licensed under the MIT (http://www.opensource.org
 designmodo - https://github.com/designmodo/Flat-UI/ - Design
 
 salendron - https://github.com/salendron/Snakeberry/ - Snakeberry
+
+BjoernAkaManf - https://github.com/BjoernAkAManf - JavaScript/PHP-Support
+
+
+### Timeline
+
+12/25/2013 - projectstart
+
+12/30/2013 - Release Beta v0.1
