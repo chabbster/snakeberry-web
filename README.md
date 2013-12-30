@@ -11,6 +11,9 @@ A small web-based control panel for the snakeberry project (https://github.com/s
 -Raspberry PI with a webserver (with PHP, for example Apache2) and snakeberry installed
 
 
+![Preview](http://s14.directupload.net/images/131230/vphpws69.png "Preview")
+
+
 ### How to install:
 
 
