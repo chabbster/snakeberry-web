@@ -1,5 +1,5 @@
 <html>
-<meta http-equiv="refresh" content="8;url=test2.php">
+<meta http-equiv="refresh" content="8;url=getstream.php">
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 <link href="css/flat-ui-new.css" rel="stylesheet">
 <?php
