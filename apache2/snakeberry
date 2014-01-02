@@ -1,0 +1,4 @@
+Listen 8800
+<VirtualHost *:8800>
+    DocumentRoot /var/www/webpanel/
+</VirtualHost>
