@@ -23,7 +23,7 @@ Install Snakeberry (How to do: https://github.com/salendron/Snakeberry/wiki/Inst
 
 Step 2-7 will do a script for you:
 
-> cd /tmp && wget https://github.com/chabbster/installfiles/blob/master/install_sw.sh && sh install_sw.sh
+> cd /tmp && wget https://raw.github.com/chabbster/installfiles/master/install_sw.sh && sh install_sw.sh
 
 8.Now you can open the Webpanel with your Browser
 
