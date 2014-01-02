@@ -27,7 +27,7 @@ Step 2-7 will do a script for you:
 
 8.Now you can open the Webpanel with your Browser
 
-> IP.of.your.pi:8080
+> IP.of.your.pi:8800
 
 ### License:
 
