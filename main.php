@@ -79,7 +79,7 @@
 			<!-- "Footer" -->
           </div>
         </div>
-		<div align="right"><small>Snakeberry Webpanel <a href="https://github.com/chabbster/snakeberry-web" target="_blank"><span class="fui-arrow-right"></span></a></small></div>
+		<div align="right"><small>Snakeberry Webpanel &nbsp;&nbsp;<a href="settings.php" target="_blank"><span class="fui-gear"></span></a>&nbsp;&nbsp;<a href="https://github.com/chabbster/snakeberry-web" target="_blank" alt="Homepage"><span class="fui-arrow-right" alt="Homepage"></span></a></small></div>
       </div>
     <script src="js/jquery-1.8.3.min.js"></script>
     <script src="js/jquery-ui-1.10.3.custom.min.js"></script>
