@@ -51,3 +51,5 @@ BjoernAkaManf - https://github.com/BjoernAkAManf - JavaScript/PHP-Support
 01/02/2014 - Release Beta v0.2 - added webbased radio station editor, update check, some fixes in code
 
 01/02/2014 - Release of setup-script (https://github.com/chabbster/installfiles/blob/master/install_sw.sh)
+
+02/08/2014 - Expected v0.4 launch date
