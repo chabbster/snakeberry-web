@@ -1,7 +1,7 @@
 Snakeberry Webpanel
 ==============
 
-###This project is discontinued. I'm working on my new project "snakeberry 2"
+#### This project is discontinued. I'm working on my new project "snakeberry 2"
 
 
 A small php control panel for snakeberry (https://github.com/salendron/Snakeberry).
